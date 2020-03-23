@@ -44,7 +44,7 @@ def get_celeb_twitters(verbose=True):
     # get links to category pages
     res = requests.get('http://profilerehab.com/twitter-help/' +
                        'celebrity_twitter_list')
-    soup = BeautifulSoup(res.text)
+    soup = BeautifulSoup(res.text, features='lxml')
     content = soup.body.find('div', {'class': 'content'})
     a_tags = content.find_all('a')[:9]
     cat_links = {t.text: t['href'] for t in a_tags}
@@ -54,7 +54,7 @@ def get_celeb_twitters(verbose=True):
         if verbose:
             print(f"Collecting Twitter Profiles for {cat[:-23]}")
         res = requests.get(l)
-        soup = BeautifulSoup(res.text)
+        soup = BeautifulSoup(res.text, features='lxml')
         entry = soup.body.find('div', {'id': 'entry'})
         para = entry.find_all('p')
         found = 0
@@ -98,7 +98,7 @@ def get_follower_count(url):
         raise TypeError("url must be a string")
 
     res = requests.get(url)
-    soup = BeautifulSoup(res.text)
+    soup = BeautifulSoup(res.text, features='lxml')
     f = soup.find('li', {'class': "ProfileNav-item--followers"})
     if not f:
         return None
