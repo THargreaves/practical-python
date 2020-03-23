@@ -18,12 +18,12 @@ The project solution is intended to be a model solution containing full document
 ### Exercise Solutions
 
 * [Session One](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_exercise_solutions.ipynb)
-* [Session Two](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_exercise_solutions.ipynb)
+* [Session Two](https://github.com/THargreaves/practical-python/blob/master/session_one/session_two_exercise_solutions.ipynb)
 
 ### Project Hints and Solutions
 
 * Session One [Hints](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_project_solutions.py)
-* Session Two Hints and Solutions (Coming Soon)
+* Session Two [Hints](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_project_solutions.py)
 
 ## Session Summaries
 
