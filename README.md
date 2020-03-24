@@ -14,16 +14,19 @@ The project solution is intended to be a model solution containing full document
 
 * [Session One](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_presentation.pptx?raw=true)
 * [Session Two](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_presentation.pptx?raw=true)
+* [Session Three](https://github.com/THargreaves/practical-python/blob/master/session_three/session_three_presentation.pptx?raw=true)
 
 ### Exercise Solutions
 
 * [Session One](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_exercise_solutions.ipynb)
-* [Session Two](https://github.com/THargreaves/practical-python/blob/master/session_one/session_two_exercise_solutions.ipynb)
+* [Session Two](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_exercise_solutions.ipynb)
+* [Session Three](https://github.com/THargreaves/practical-python/blob/master/session_three/session_three_exercise_solutions.ipynb)
 
 ### Project Hints and Solutions
 
 * Session One [Hints](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_project_solutions.py)
 * Session Two [Hints](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_project_solutions.py)
+* Session Three Hints and Solution (Coming Soon)
 
 ## Session Summaries
 
@@ -38,3 +41,9 @@ The project solution is intended to be a model solution containing full document
 * Learn about how dictionaries can be implemented and used in Python
 * Learn how to randomly select items from a list/dictionary
 * Apply the session's techniques (along with some supplied helper code) to create a game of 'Higher or Lower' using the follower counts of various celebrities' Twitters
+
+### Session 3 - Life
+
+* Learn how we can use lists of lists to create 2D arrays in Python
+* Learn how to read text from a plain text file
+* Apply the sessions's technique to simulate life itself (well, Conway's Game of Life). Additionally, allow the uploading of custom starting patterns
