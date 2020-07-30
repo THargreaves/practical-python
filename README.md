@@ -2,6 +2,8 @@
 
 _Session material and solutions for the Practical Python course at AZ Macclesfield_
 
+Note, this course is now deprecated in place of the AstraZeneca Data Science Academy's [Data Science Python](https://github.com/semacu/data-science-python) course.
+
 ## Using This Repository
 
 Each session is contained in its own folder and includes the Powerpoint presentation given in the session, solutions for the session execises in a Jupyter notebook, and a model solution for the session project as a Python script. 
@@ -26,7 +28,7 @@ The project solution is intended to be a model solution containing full document
 
 * Session One [Hints](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_one/session_one_project_solutions.py)
 * Session Two [Hints](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_two/session_two_project_solutions.py)
-* Session Three Hints and Solution (Coming Soon)
+* Session Three [Hints](https://github.com/THargreaves/practical-python/blob/master/session_three/session_three_hints.md) and [Solution](https://github.com/THargreaves/practical-python/blob/master/session_three/session_three_project_solutions.py)
 
 ## Session Summaries
 
